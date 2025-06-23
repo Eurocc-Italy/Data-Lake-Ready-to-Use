@@ -4,3 +4,6 @@
 [submodule "dl_api"]
 	path = dl_api
 	url = https://github.com/Eurocc-Italy/dl_api
+[submodule "dl_deploy"]
+	path = dl_deploy
+	url = https://github.com/Eurocc-Italy/dl_deploy
