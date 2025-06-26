@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://euroccitaly.it/wp-content/uploads/2023/12/logo-eurocc-italy4.svg" width="300">
+</p> 
+
 # The Data Lake just a click away
 Data Lake Ready to Use is a data storage and processing application based on the “data lake” model, which EuroCC **provides free of charge to small and medium-sized enterprises.**
 
