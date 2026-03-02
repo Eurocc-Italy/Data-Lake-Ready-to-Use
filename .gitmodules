@@ -1,9 +1,12 @@
 [submodule "dl_tui"]
 	path = dl_tui
-	url = https://github.com/Eurocc-Italy/dl_tui/tree/v1.2.1
+	url = https://github.com/Eurocc-Italy/dl_tui
+	branch = v1.2.1
 [submodule "dl_api"]
 	path = dl_api
-	url = https://github.com/Eurocc-Italy/dl_api/tree/v1.2.1
+	url = https://github.com/Eurocc-Italy/dl_api
+	branch = v1.2.1
 [submodule "dl_deploy"]
 	path = dl_deploy
-	url = https://github.com/Eurocc-Italy/dl_deploy/tree/v1.2.1
+	url = https://github.com/Eurocc-Italy/dl_deploy
+	branch = v1.2.1
